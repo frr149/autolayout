@@ -12,6 +12,8 @@
 		EDB7BEB71F2286E7009E206F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EDB7BEB51F2286E7009E206F /* Main.storyboard */; };
 		EDB7BEB91F2286E7009E206F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EDB7BEB81F2286E7009E206F /* Assets.xcassets */; };
 		EDB7BEBC1F2286E7009E206F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EDB7BEBA1F2286E7009E206F /* LaunchScreen.storyboard */; };
+		EDB7BEC41F22979F009E206F /* audreyii.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EDB7BEC31F22979F009E206F /* audreyii.jpg */; };
+		EDB7BEC61F22A25E009E206F /* audreyIISmall.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EDB7BEC51F22A25E009E206F /* audreyIISmall.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		EDB7BEB81F2286E7009E206F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EDB7BEBB1F2286E7009E206F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EDB7BEBD1F2286E7009E206F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EDB7BEC31F22979F009E206F /* audreyii.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = audreyii.jpg; sourceTree = "<group>"; };
+		EDB7BEC51F22A25E009E206F /* audreyIISmall.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = audreyIISmall.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 		EDB7BEB01F2286E7009E206F /* AutoLayoutReference */ = {
 			isa = PBXGroup;
 			children = (
+				EDB7BEC31F22979F009E206F /* audreyii.jpg */,
+				EDB7BEC51F22A25E009E206F /* audreyIISmall.jpg */,
 				EDB7BEB11F2286E7009E206F /* AppDelegate.swift */,
 				EDB7BEB31F2286E7009E206F /* ViewController.swift */,
 				EDB7BEB51F2286E7009E206F /* Main.storyboard */,
@@ -127,6 +133,8 @@
 				EDB7BEBC1F2286E7009E206F /* LaunchScreen.storyboard in Resources */,
 				EDB7BEB91F2286E7009E206F /* Assets.xcassets in Resources */,
 				EDB7BEB71F2286E7009E206F /* Main.storyboard in Resources */,
+				EDB7BEC61F22A25E009E206F /* audreyIISmall.jpg in Resources */,
+				EDB7BEC41F22979F009E206F /* audreyii.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
